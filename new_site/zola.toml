@@ -51,12 +51,12 @@ monitor = false
 # Menu items
 menu = [{ url = "/about", name = "About" }, { url = "/tags", name = "Tags" }]
 
-language_code = "en-US"
+language_code = "pt-PT"
 
 # Enable OpenGraph metadata
 opengraph = true
 
-timezone = "America/New_York"
+timezone = "Atlantic/Azores"
 
 # Date and time format for displaying post dates.
 # If left empty, the default format will be used: "%B %e, %Y at %H:%M %Z".
