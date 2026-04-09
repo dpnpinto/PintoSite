@@ -1,13 +1,13 @@
 # The URL the site will be built for
-base_url = "https://zola-hacker.enginerd.io/"
+base_url = "https://dpnpinto.github.io/"
 
 # The title of the site
-title = "Hacker theme"
+title = "Duarte Pedro Pinto"
 
 # The description of the site
-description = "Hacker is a theme for Zola"
+description = "This is My KISS Site"
 
-author = "John Doe"
+author = "Duarte Pedro Pinto"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -84,7 +84,7 @@ social_links = [
   # { platform = "pinterest", user_id = "" },
   # { platform = "twitter", user_id = "" },
   # { platform = "stackoverflow", user_id = "" },
-  { platform = "youtube", user_id = "dpinto.engenharia" },
+  { platform = "youtube", user_id = "@dpinto.engenharia" },
   # { platform = "telegram", user_id = "" },
 ]
 
