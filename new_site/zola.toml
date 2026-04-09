@@ -58,7 +58,7 @@ opengraph = true
 
 timezone = "America/New_York"
 
-# Date and time format for displaying post dates. 
+# Date and time format for displaying post dates.
 # If left empty, the default format will be used: "%B %e, %Y at %H:%M %Z".
 # Example of a custom format: "%Y-%m-%d %H:%M:%S %z" (2024-02-04 15:30:00 +0000)
 # timeformat = ""
@@ -75,16 +75,16 @@ simplified_tags = false
 # Social links
 social_links = [
   { platform = "email", user_id = "johndoe@example.com" },
-  { platform = "github", user_id = "johndoe" },
-  { platform = "linkedin", user_id = "johndoe" },
-  { platform = "feed", user_id = true },
-  { platform = "keyoxide", user_id = "aspe:host:XXXXXXX" },
+  { platform = "github", user_id = "dpnpinto" },
+  { platform = "linkedin", user_id = "duarte-pinto-a399aa2" },
+  # { platform = "feed", user_id = true },
+  # { platform = "keyoxide", user_id = "aspe:host:XXXXXXX" },
   # { platform = "facebook", user_id = "" },
   # { platform = "instagram", user_id = "" },
   # { platform = "pinterest", user_id = "" },
   # { platform = "twitter", user_id = "" },
   # { platform = "stackoverflow", user_id = "" },
-  # { platform = "youtube", user_id = "" },
+  { platform = "youtube", user_id = "dpinto.engenharia" },
   # { platform = "telegram", user_id = "" },
 ]
 
