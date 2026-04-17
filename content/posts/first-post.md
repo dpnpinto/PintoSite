@@ -1,140 +1,17 @@
 +++
 title = "Title"
-date = 2017-01-10T00:00:00+00:00
+date = 2026-04-17T00:00:00+00:00
 
 [taxonomies]
 tags = ["Features", "Markdown"]
 +++
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# It is time to a new *Kiss* aprosh to MySite
 
-[Link to another page](@/pages/another-page.md).
+Starting a new website is exciting! The KISS (Keep It Simple, Stupid) approach is honestly one of the best strategies everybody can use. A clean, uncluttered homepage instantly makes your visitors feel welcome and helps them find exactly what they are looking for.
 
-There should be whitespace between paragraphs.
-<!--more-->
+Since the goal is simplicity, here is my brief welcome to all you.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Hello and welcome.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:------------:|:------------------|------:|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-```scss, linenos
-pre mark {
-  display: block;
-  color: currentcolor;
-}
-
-pre table td:nth-of-type(1) {
-  color: #6b6b6b;
-  font-style: italic;
-}
-```
+This is a space dedicated to *Eletronic, Telecomunications an Computers* this site is buil with simplicity in mind so you can find what you're looking for quickly and easily.

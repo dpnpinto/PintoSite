@@ -34,7 +34,6 @@ My goal is to contribute to the advancement of science and technology through my
 ## My most important achievement
 * [https://jpnt.github.io](https://jpnt.github.io/about/)
 
-[Currículum Vitae](@/pages/cv.md)
 <br><br>
 
 ## Contact Me

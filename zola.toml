@@ -36,7 +36,7 @@ bottom_footnotes = true
 title_separator = "|" # set as |, -, _, etc
 
 # The path to the logo of the site
-logo = "images/logo.png"
+logo = "images/dp_1.png"
 
 # Google Analytics tracking ID
 google_analytics = "example-tracking-id"
@@ -74,7 +74,7 @@ simplified_tags = false
 
 # Social links
 social_links = [
-  { platform = "email", user_id = "johndoe@example.com" },
+  # { platform = "email", user_id = "johndoe@example.com" },
   { platform = "github", user_id = "dpnpinto" },
   { platform = "linkedin", user_id = "duarte-pinto-a399aa2" },
   # { platform = "feed", user_id = true },
