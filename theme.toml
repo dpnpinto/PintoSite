@@ -6,12 +6,12 @@ min_version = "0.19.1"
 demo = "https://zola-hacker.enginerd.io/"
 
 [author]
-name = "Vladimir Loskutov"
-homepage = "https://github.com/en9inerd"
+name = "Duarte Pedro Pinto"
+homepage = "https://github.com/dpnpinto"
 
 [original]
 author = "Github Pages"
-homepage = "https://pages-themes.github.io/hacker/"
-repo = "https://github.com/pages-themes/hacker"
+homepage = "https://dpnpinto.github.io"
+repo = "https://github.com/dpnpinto"
 
 [extra]

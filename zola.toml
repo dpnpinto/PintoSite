@@ -90,8 +90,8 @@ social_links = [
 
 # GitHub settings that are used to generate the edit page link
 [extra.github]
-username = "en9inerd"
-repo = "zola-hacker"
+username = "dpnpinto"
+repo = "PintoSite"
 
 # Giscus settings
 # Please refer to https://giscus.app/ for more information
