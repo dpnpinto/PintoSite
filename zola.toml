@@ -67,7 +67,7 @@ timezone = "Atlantic/Azores"
 # cv_file = "/files/Curriculum_Vitae.pdf"
 
 # provide link to edit page on github
-edit_page = true
+# edit_page = true
 
 # Use theme specific tags page based on templates/tags.html
 simplified_tags = false
