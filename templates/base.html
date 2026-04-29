@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 {%- set lang = config.extra.language_code | default(value="en-US") -%}
 <html lang="{{ lang }}" xml:lang="{{ lang }}">
-  
+
 <head>
   {% include "partials/head.html" -%}
   {%- block seo -%}
@@ -22,6 +22,9 @@
       </a>
       <h2>{{ config.description }}</h2>
       {% include "partials/navigation.html" -%}
+    </div>
+    <div class="header-image-container">
+            <img src="{{ get_url(path='profile.png') }}" alt="Header Image" class="header-image">
     </div>
   </header>
 

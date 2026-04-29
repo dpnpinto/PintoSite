@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /404.html
-Disallow: /files/*
-Allow: /
-Sitemap: https://dpnpinto.github.io/sitemap.xml
