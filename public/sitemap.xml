@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://dpnpinto.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://dpnpinto.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://dpnpinto.github.io/another-page/</loc>
+    </url>
+    <url>
+        <loc>https://dpnpinto.github.io/cv/</loc>
+    </url>
+    <url>
+        <loc>https://dpnpinto.github.io/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://dpnpinto.github.io/posts/first-post/</loc>
+        <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://dpnpinto.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://dpnpinto.github.io/tags/features/</loc>
+    </url>
+    <url>
+        <loc>https://dpnpinto.github.io/tags/markdown/</loc>
+    </url>
+</urlset>
