@@ -16,15 +16,15 @@
 
 <body>
   <header>
+    <div class="header-image-container">
+        <img src="{{ get_url(path='profile.png') }}" alt="Header Image" class="header-image">
+    </div>
     <div class="container">
       <a id="a-title" href="{{ get_url(path="/") }}">
         <h1>{{ config.title }}</h1>
       </a>
       <h2>{{ config.description }}</h2>
       {% include "partials/navigation.html" -%}
-    </div>
-    <div class="header-image-container">
-            <img src="{{ get_url(path='profile.png') }}" alt="Header Image" class="header-image">
     </div>
   </header>
 
