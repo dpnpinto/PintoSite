@@ -14,4 +14,4 @@ Since the goal is simplicity, here is my brief welcome to all you.
 
 ## Hello and welcome.
 
-This is a space dedicated to *Eletronic, Telecomunications an Computers* this site is buil with simplicity in mind so you can find what you're looking for quickly and easily.
+This is a space dedicated to *Eletronic, Telecomunications and Computers* this site is buil with simplicity in mind so you can find what you're looking for quickly and easily.
