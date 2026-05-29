@@ -49,7 +49,7 @@ contact_form_script_id = "<script-identifier>"
 monitor = false
 
 # Menu items
-menu = [{ url = "/about", name = "About" }]
+menu = [{ url = "/about", name = "About" },{ url = "/manicminer", name = "Manic Miner" }]
 
 language_code = "pt-PT"
 
