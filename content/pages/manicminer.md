@@ -30,6 +30,6 @@ There is no better proof of this than the incredible global open-source communit
 
 Experience the Magic of Manic Miner Right Here
 
-* [https://dpnpinto.github.io/game](https://dpnpinto.github.io/game)
+* [Manic Miner](/game/index.html)
 
 <br><br>
