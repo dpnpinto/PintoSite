@@ -1,140 +1,24 @@
 +++
-title = "Title"
+title = "Projects using a Pi"
 date = 2017-01-10T00:00:00+00:00
 
 [taxonomies]
 tags = ["Features", "Markdown"]
 +++
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Welcome to the **magical**, sometimes maddening world of tiny computers and endless possibilities! If you've ever looked at a Raspberry Pi—perhaps a tiny Zero 2 W—and thought, "I bet I can make this do something incredibly cool before I accidentally short-circuit something," you are exactly in the right place.
 
-[Link to another page](@/pages/another-page.md).
+Below, you'll find a collection of `open-source` projects I've cooked up. Think of them as your survival guide for dipping your toes into the wild waters of `systems engineering`. Whether you are trying to understand how things actually work under the hood, or you just want to experience the monumental triumph of making a piece of silicon do what you tell it to, these projects are the perfect starting point for beginners.
 
-There should be whitespace between paragraphs.
-<!--more-->
+The best part? No expensive mainframes were harmed in the making of these tutorials. Everything is built on the philosophy of low-cost hardware and the sheer power of `open-source` software.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+You can find all the raw code and behind-the-scenes shenanigans over on my GitHub (@https://github.com/dpnpinto/PintoRpi), but for your scrolling convenience, I have broken down all the juicy details and step-by-step guides in the links below.
 
-# Header 1
+Grab your Raspberry Pi, a strong cup of coffee, and dive in. May your code compile on the first try!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:------------:|:------------------|------:|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
+(Insert your links below)
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-```scss, linenos
-pre mark {
-  display: block;
-  color: currentcolor;
-}
-
-pre table td:nth-of-type(1) {
-  color: #6b6b6b;
-  font-style: italic;
-}
-```
