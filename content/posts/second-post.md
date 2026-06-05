@@ -12,9 +12,9 @@ Below, you'll find a collection of `open-source` projects I've cooked up. Think 
 
 The best part? No expensive mainframes were harmed in the making of these tutorials. Everything is built on the philosophy of low-cost hardware and the sheer power of `open-source` software.
 
-You can find all the raw code and behind-the-scenes shenanigans over on my GitHub (@https://github.com/dpnpinto/PintoRpi), but for your scrolling convenience, I have broken down all the juicy details and step-by-step guides in the links below.
+You can find all the raw code and behind-the-scenes shenanigans over on my GitHub [https://github.com/dpnpinto/PintoRpi](https://github.com/dpnpinto/PintoRpi), but for your scrolling convenience, I have broken down all the juicy details and step-by-step guides in the links below.
 
-Grab your Raspberry Pi, a strong cup of coffee, and dive in. May your code compile on the first try!
+Grab your `Raspberry Pi`, a strong cup of coffee, and dive in. `Use the force my friend.May the source be with you!`
 
 * [How to Install Alpine Linux on a Pi](https://github.com/dpnpinto/PintoRpi/blob/main/README.md#how-to-install-alpine-linux-on-a-pi)
 * [AdGuard on a Pi with Alpine Linux](https://github.com/dpnpinto/PintoRpi/blob/main/README.md#adguard-on-a-pi-with-alpine-linux)
