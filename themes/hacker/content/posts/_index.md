@@ -1,5 +1,5 @@
 +++
-render = false
-transparent = true
+render = true
+transparent = false
 sort_by = "date"
 +++
