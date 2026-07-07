@@ -39,7 +39,7 @@ title_separator = "|" # set as |, -, _, etc
 logo = "images/dp_1.png"
 
 # Google Analytics tracking ID
-google_analytics = "example-tracking-id"
+google_analytics = "G-GJKSVTWSQ5"
 
 # Contact form script id that points to google macros (e.g. https://script.google.com/macros/s/<script-identifier>/exec)
 # More info about contact form based on google macros can be found here: https://github.com/en9inerd/learn-to-send-email-via-google-script-html-no-server
