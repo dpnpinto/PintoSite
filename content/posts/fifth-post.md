@@ -1,5 +1,5 @@
 +++
-title = "Geetoo for All: My Personal easy install of Gentoo (Meet Pintoo!)"
+title = "Gentoo for All: My Personal easy install of Gentoo (Meet Pintoo!)"
 date = 2026-09-29T00:00:00+00:00
 
 [taxonomies]
@@ -8,7 +8,7 @@ tags = ["Systems", "Linux","Gentoo"]
 
 ## Gentoo in 2026: Uncompromising Flexibility Meets Binary Speed
 
-For years, Gentoo has carried the stigma of being the "compile-everything, long wait" distribution. But if you are still dismissing it because you don't want to spend 12 hours compiling a kernek, you are missing out on the most adaptable Linux distribution in the planet. The landscape has changed. Gentoo is now a hybrid powerhouse, offering unmatched, low-level technical control alongside the instant gratification of binary packages.
+For years, Gentoo has carried the stigma of being the "compile-everything, long wait" distribution. But if you are still dismissing it because you don't want to spend 12 hours compiling a kernel, you are missing out on the most adaptable Linux distribution on the planet. The landscape has changed. Gentoo is now a hybrid powerhouse, offering unmatched, low-level technical control alongside the instant gratification of binary packages.
 
 Here is why Gentoo should be your next deployment, whether on a daily-driver laptop or an experimental single-board computer.
 

@@ -8,7 +8,7 @@
     <updated>2026-09-29T00:00:00+00:00</updated>
     <id>https://dpnpinto.github.io/atom.xml</id>
     <entry xml:lang="en">
-        <title>Geetoo for All: My Personal easy install of Gentoo (Meet Pintoo!)</title>
+        <title>Gentoo for All: My Personal easy install of Gentoo (Meet Pintoo!)</title>
         <published>2026-09-29T00:00:00+00:00</published>
         <updated>2026-09-29T00:00:00+00:00</updated>
         
@@ -24,7 +24,7 @@
         <id>https://dpnpinto.github.io/posts/fifth-post/</id>
         
         <content type="html" xml:base="https://dpnpinto.github.io/posts/fifth-post/">&lt;h2 id=&quot;gentoo-in-2026-uncompromising-flexibility-meets-binary-speed&quot;&gt;Gentoo in 2026: Uncompromising Flexibility Meets Binary Speed&lt;&#x2F;h2&gt;
-&lt;p&gt;For years, Gentoo has carried the stigma of being the &quot;compile-everything, long wait&quot; distribution. But if you are still dismissing it because you don&#x27;t want to spend 12 hours compiling a kernek, you are missing out on the most adaptable Linux distribution in the planet. The landscape has changed. Gentoo is now a hybrid powerhouse, offering unmatched, low-level technical control alongside the instant gratification of binary packages.&lt;&#x2F;p&gt;
+&lt;p&gt;For years, Gentoo has carried the stigma of being the &quot;compile-everything, long wait&quot; distribution. But if you are still dismissing it because you don&#x27;t want to spend 12 hours compiling a kernel, you are missing out on the most adaptable Linux distribution on the planet. The landscape has changed. Gentoo is now a hybrid powerhouse, offering unmatched, low-level technical control alongside the instant gratification of binary packages.&lt;&#x2F;p&gt;
 &lt;p&gt;Here is why Gentoo should be your next deployment, whether on a daily-driver laptop or an experimental single-board computer.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-unrivaled-absolute-flexibility&quot;&gt;The Unrivaled, Absolute Flexibility&lt;&#x2F;h2&gt;
 &lt;p&gt;Most distributions dictate your system architecture. Gentoo asks you what you want it to be.&lt;&#x2F;p&gt;
