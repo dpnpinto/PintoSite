@@ -3,7 +3,7 @@ title = "Meet Zezoca: My Personal AI (Running on Arch Linux!)"
 date = 2026-07-13T00:00:00+00:00
 
 [taxonomies]
-tags = ["Systems", "Linux","Kernel","Artificial intelligence"]
+tags = ["Systems","Kernel Linux","Artificial intelligence"]
 +++
 
 Having an `AI` is fantastic. But having a personal AI running in a purely minimalist environment, controlled directly by you and configured entirely by hand? That is on a whole other level.

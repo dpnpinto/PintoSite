@@ -3,7 +3,7 @@ title = "Gentoo for All: My Personal easy install of Gentoo (Meet Pintoo!)"
 date = 2026-09-29T00:00:00+00:00
 
 [taxonomies]
-tags = ["Systems", "Linux","Gentoo"]
+tags = ["Systems","Gentoo Linux"]
 +++
 
 ## Gentoo in 2026: Uncompromising Flexibility Meets Binary Speed

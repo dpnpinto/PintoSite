@@ -3,7 +3,7 @@ title = "Projects using a Pi"
 date = 2026-06-04T00:00:00+00:00
 
 [taxonomies]
-tags = ["Systems", "RaspBerry Pi","Alipne Linux","Arch Linux"]
+tags = ["Systems", "RaspBerry Pi","Alpine Linux","Arch Linux"]
 +++
 
 Welcome to the **magical**, sometimes maddening world of tiny computers and endless possibilities! If you've ever looked at a Raspberry Pi—perhaps a tiny Zero 2 W—and thought, "I bet I can make this do something incredibly cool before I accidentally short-circuit something," you are exactly in the right place.

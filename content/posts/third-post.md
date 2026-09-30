@@ -3,7 +3,7 @@ title = "Linux 7.1 is here"
 date = 2026-07-01T00:00:00+00:00
 
 [taxonomies]
-tags = ["Systems", "Linux","Kernel"]
+tags = ["Systems","Kernel Linux"]
 +++
 
 `Linux 7.1` Has Dropped, and `AI` is Under the Hood 🐧
