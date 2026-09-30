@@ -19,6 +19,10 @@
         <loc>https://dpnpinto.github.io/page/1/</loc>
     </url>
     <url>
+        <loc>https://dpnpinto.github.io/posts/fifth-post/</loc>
+        <lastmod>2026-09-29T00:00:00+00:00</lastmod>
+    </url>
+    <url>
         <loc>https://dpnpinto.github.io/posts/first-post/</loc>
         <lastmod>2026-04-17T00:00:00+00:00</lastmod>
     </url>
@@ -45,6 +49,9 @@
     </url>
     <url>
         <loc>https://dpnpinto.github.io/tags/artificial-intelligence/</loc>
+    </url>
+    <url>
+        <loc>https://dpnpinto.github.io/tags/gentoo/</loc>
     </url>
     <url>
         <loc>https://dpnpinto.github.io/tags/kernel/</loc>

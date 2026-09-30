@@ -82,6 +82,36 @@
   <h2>[ Systems ]</h2>
   
     <article class="page">
+  <h2><a href="https://dpnpinto.github.io/posts/fifth-post/">Geetoo for All: My Personal easy install of Gentoo (Meet Pintoo!)</a></h2>
+  <div class="page-info">
+    <time class="smaller" datetime="2026-09-29T00:00:00+00:00">
+      Posted on September 29, 2026 at 00:00 +00
+    </time>
+  </div>
+
+  <div class="entry">
+    <h2 id="gentoo-in-2026-uncompromising-flexibility-meets-binary-speed">Gentoo in 2026: Uncompromising Flexibility Meets Binary Speed</h2>
+<p>For years, Gentoo has carried the stigma of being the "compile-everything, long wait" distribution. But if you are still dismissing it because you don't want to spend 12 hours compiling a kernek, you are missing out on the most adaptable Linux distribution in the planet. The landscape has changed. Gentoo is now a hybrid powerhouse, offering unmatched, low-level technical control alongside the instant gratification of binary packages.</p>
+<p>Here is why Gentoo should be your next deployment, whether on a daily-driver laptop or an experimental single-board computer.</p>
+<h2 id="the-unrivaled-absolute-flexibility">The Unrivaled, Absolute Flexibility</h2>
+<p>Most distributions dictate your system architecture. Gentoo asks you what you want it to be.</p>
+<p>At the heart of this is <code>Portage</code> and the USE <code>flag system</code>. Instead of installing a monolithic package with every conceivable dependency compiled in, you define the dependency graph at the source level.</p>
+<p>Building a minimal Wayland environment with River WM? Set -X -wayland-compositor globally.</p>
+<p>Want to ruthlessly strip out systemd and PulseAudio in favor of OpenRC and PipeWire? A few flags in your make.conf guarantee those libraries will never even touch your system.</p>
+<p>You control the compiler directly. By setting your CFLAGS="-O2 -march=native -pipe", every piece of code is aggressively optimized for your exact CPU instruction set.</p>
+<p>You can even strip your setup down to the bare metal—configuring a custom Linux kernel to boot directly via <code>EFISTUB</code> without an <code>initramfs</code>, achieving second boot times and a shockingly low RAM footprint. The flexibility is absolute; the system bends entirely to your will.</p>
+<p>I think the Binary Revolution (Zero Compile-Time Gatekeeping) is the secret weapon that changes the adoption game: Gentoo is a fully capable binary distribution.</p>
+<p>You no longer have to sacrifice an entire afternoon to build rust, llvm, or firefox. Gentoo’s official binary package repositories (gentoo-binhost) serve pre-compiled packages directly. By simply enabling getbinpkg in your make.conf, Portage becomes smart enough to resolve dependencies and pull the binary versions of massive packages, while still compiling what you desire from source.</p>
+<ul>
+<li><a rel="external" href="https://github.com/dpnpinto/Pintoo">GitHub</a></li>
+</ul>
+</div>
+
+  <div class="page-footer">
+  </div>
+</article>
+
+    <article class="page">
   <h2><a href="https://dpnpinto.github.io/posts/forth-post/">Meet Zezoca: My Personal AI (Running on Arch Linux!)</a></h2>
   <div class="page-info">
     <time class="smaller" datetime="2026-07-13T00:00:00+00:00">

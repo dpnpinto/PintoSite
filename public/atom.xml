@@ -5,8 +5,42 @@
     <link rel="self" type="application/atom+xml" href="https://dpnpinto.github.io/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://dpnpinto.github.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-07-13T00:00:00+00:00</updated>
+    <updated>2026-09-29T00:00:00+00:00</updated>
     <id>https://dpnpinto.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Geetoo for All: My Personal easy install of Gentoo (Meet Pintoo!)</title>
+        <published>2026-09-29T00:00:00+00:00</published>
+        <updated>2026-09-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Duarte Pedro Pinto
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dpnpinto.github.io/posts/fifth-post/"/>
+        <id>https://dpnpinto.github.io/posts/fifth-post/</id>
+        
+        <content type="html" xml:base="https://dpnpinto.github.io/posts/fifth-post/">&lt;h2 id=&quot;gentoo-in-2026-uncompromising-flexibility-meets-binary-speed&quot;&gt;Gentoo in 2026: Uncompromising Flexibility Meets Binary Speed&lt;&#x2F;h2&gt;
+&lt;p&gt;For years, Gentoo has carried the stigma of being the &quot;compile-everything, long wait&quot; distribution. But if you are still dismissing it because you don&#x27;t want to spend 12 hours compiling a kernek, you are missing out on the most adaptable Linux distribution in the planet. The landscape has changed. Gentoo is now a hybrid powerhouse, offering unmatched, low-level technical control alongside the instant gratification of binary packages.&lt;&#x2F;p&gt;
+&lt;p&gt;Here is why Gentoo should be your next deployment, whether on a daily-driver laptop or an experimental single-board computer.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-unrivaled-absolute-flexibility&quot;&gt;The Unrivaled, Absolute Flexibility&lt;&#x2F;h2&gt;
+&lt;p&gt;Most distributions dictate your system architecture. Gentoo asks you what you want it to be.&lt;&#x2F;p&gt;
+&lt;p&gt;At the heart of this is &lt;code&gt;Portage&lt;&#x2F;code&gt; and the USE &lt;code&gt;flag system&lt;&#x2F;code&gt;. Instead of installing a monolithic package with every conceivable dependency compiled in, you define the dependency graph at the source level.&lt;&#x2F;p&gt;
+&lt;p&gt;Building a minimal Wayland environment with River WM? Set -X -wayland-compositor globally.&lt;&#x2F;p&gt;
+&lt;p&gt;Want to ruthlessly strip out systemd and PulseAudio in favor of OpenRC and PipeWire? A few flags in your make.conf guarantee those libraries will never even touch your system.&lt;&#x2F;p&gt;
+&lt;p&gt;You control the compiler directly. By setting your CFLAGS=&quot;-O2 -march=native -pipe&quot;, every piece of code is aggressively optimized for your exact CPU instruction set.&lt;&#x2F;p&gt;
+&lt;p&gt;You can even strip your setup down to the bare metal—configuring a custom Linux kernel to boot directly via &lt;code&gt;EFISTUB&lt;&#x2F;code&gt; without an &lt;code&gt;initramfs&lt;&#x2F;code&gt;, achieving second boot times and a shockingly low RAM footprint. The flexibility is absolute; the system bends entirely to your will.&lt;&#x2F;p&gt;
+&lt;p&gt;I think the Binary Revolution (Zero Compile-Time Gatekeeping) is the secret weapon that changes the adoption game: Gentoo is a fully capable binary distribution.&lt;&#x2F;p&gt;
+&lt;p&gt;You no longer have to sacrifice an entire afternoon to build rust, llvm, or firefox. Gentoo’s official binary package repositories (gentoo-binhost) serve pre-compiled packages directly. By simply enabling getbinpkg in your make.conf, Portage becomes smart enough to resolve dependencies and pull the binary versions of massive packages, while still compiling what you desire from source.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dpnpinto&#x2F;Pintoo&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Meet Zezoca: My Personal AI (Running on Arch Linux!)</title>
         <published>2026-07-13T00:00:00+00:00</published>
